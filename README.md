@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9CFF&center=true&vCenter=true&width=600&lines=Hola,+soy+Anahi+Molina;Estudiante+de+Software;Bienvenido+a+mi+perfil" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Anahi%20Molina&fontSize=50&fontAlignY=35&desc=Estudiante%20de%20Software&descAlignY=55" alt="Banner" />
 </p>
 
 <p align="center">
@@ -18,8 +18,9 @@ Bienvenido a mi perfil de GitHub. Soy Anahi Molina, estudiante de Software de cu
 </p>
 
 ## 📊 Estadísticas
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Anahi%20Molina&fontSize=50&fontAlignY=35&desc=Estudiante%20de%20Software&descAlignY=55" alt="Banner" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=amolina4130&style=for-the-badge&color=blue&label=VISITAS" />
+  <img src="https://img.shields.io/github/followers/amolina4130?style=for-the-badge&logo=github" />
 </p>
 
 ## 📁 Proyectos destacados
