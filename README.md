@@ -1,16 +1,27 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9CFF&center=true&vCenter=true&width=600&lines=Hola,+soy+Anahi+Molina;Estudiante+de+Software;Bienvenido+a+mi+perfil" alt="Banner" />
+</p>
 
-<!--
-**amolina4130/amolina4130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/amolina4130"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:amolina4130@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-Here are some ideas to get you started:
+Bienvenido a mi perfil de GitHub. Soy Anahi Molina, estudiante de Software de cuarto semestre. Aquí comparto mis proyectos y lo que voy aprendiendo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Mi GitHub Pages
+👉 [https://amolina4130.github.io](https://amolina4130.github.io)
+
+## 🛠️ Mis herramientas y tecnologías
+<p>
+  <img src="https://skillicons.dev/icons?i=java,php,mysql,html,css,js,git,github,vscode,netbeans" />
+</p>
+
+## 📊 Estadísticas
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=amolina4130&show_icons=true&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amolina4130&layout=compact&theme=radical" />
+</p>
+
+## 📁 Proyectos destacados
+- [Proyecto 1](https://github.com/amolina4130/NOMBRE_REPO): descripción corta
