@@ -18,9 +18,8 @@ Bienvenido a mi perfil de GitHub. Soy Anahi Molina, estudiante de Software de cu
 </p>
 
 ## 📊 Estadísticas
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=amolina4130&show_icons=true&theme=radical" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amolina4130&layout=compact&theme=radical" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Anahi%20Molina&fontSize=50&fontAlignY=35&desc=Estudiante%20de%20Software&descAlignY=55" alt="Banner" />
 </p>
 
 ## 📁 Proyectos destacados
